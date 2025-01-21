@@ -3,7 +3,7 @@
 	"name": "Wilder",
 	"display_name": "Wilder",
 	"author": ["Sir. Gameboy"],
-	"description": "Allows The Lovers tarot card to convert two cards instead of one.",
+	"description": "Allows The Lovers tarot card to convert two cards into Wild Cards instead of one.",
 	"prefix": "wilder",
 	"main_file": "Wilder.lua",
 	"priority": 0,
