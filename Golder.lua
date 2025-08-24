@@ -1,13 +1,13 @@
 SMODS.Consumable:take_ownership(
-    'lovers',
+    'devil',
     {
         config = {
-            mod_conv = 'm_wild', 
+            mod_conv = 'm_gold', 
             max_highlighted = 2
         },
         loc_txt = {
             ['default'] = {
-                name = 'The Lovers',
+                name = 'The Devil',
                 text = {
                     "Enhances {C:attention}#1#{}",
                     "selected cards to",
